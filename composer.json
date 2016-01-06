@@ -1,8 +1,9 @@
 {
     "name": "sikofitt/html5-skeleton",
     "description": "HTML5 Boilerplate project",
-    "license": "MIT",
     "type": "project",
+    "homepage": "https://github.com/sikofitt/html5-skeleton",
+    "license": "MIT",
     "require": {
         "php": ">=5.6"
     },
@@ -10,6 +11,9 @@
         "psr-4": { "": "src/" }
     },
     "extra": {
-        "dev-master": "1.0.x-dev"
+        "branch-alias": {
+            "dev-master": "1.0.x-dev"
+        }
+
     }
 }
